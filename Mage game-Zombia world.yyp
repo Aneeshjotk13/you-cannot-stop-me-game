@@ -34,13 +34,16 @@
   },
   "name":"Mage game-Zombia world",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_zombie","path":"sprites/spr_zombie/spr_zombie.yy",},},
+    {"id":{"name":"obj_fighter","path":"objects/obj_fighter/obj_fighter.yy",},},
+    {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
+    {"id":{"name":"spr_ep","path":"sprites/spr_ep/spr_ep.yy",},},
+    {"id":{"name":"spr_grassland","path":"sprites/spr_grassland/spr_grassland.yy",},},
+    {"id":{"name":"spr_terrain","path":"sprites/spr_terrain/spr_terrain.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

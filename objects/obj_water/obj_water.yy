@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_fighter",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_water",
+  "eventList":[],
   "managed":true,
-  "name":"obj_fighter",
+  "name":"obj_water",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_fighter",
-    "path":"sprites/spr_fighter/spr_fighter.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

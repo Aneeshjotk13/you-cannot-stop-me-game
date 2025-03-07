@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_fighter",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_terr",
+  "eventList":[],
   "managed":true,
-  "name":"obj_fighter",
+  "name":"obj_terr",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_fighter",
-    "path":"sprites/spr_fighter/spr_fighter.yy",
+    "name":"spr_terrain",
+    "path":"sprites/spr_terrain/spr_terrain.yy",
   },
   "spriteMaskId":null,
   "visible":true,

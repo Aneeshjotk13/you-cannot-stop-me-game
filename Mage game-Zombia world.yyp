@@ -40,6 +40,8 @@
     {"id":{"name":"obj_tiles","path":"objects/obj_tiles/obj_tiles.yy",},},
     {"id":{"name":"obj_trees","path":"objects/obj_trees/obj_trees.yy",},},
     {"id":{"name":"obj_water","path":"objects/obj_water/obj_water.yy",},},
+    {"id":{"name":"rm_gameend","path":"rooms/rm_gameend/rm_gameend.yy",},},
+    {"id":{"name":"rm_gamewin","path":"rooms/rm_gamewin/rm_gamewin.yy",},},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
     {"id":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"id":{"name":"rm_level3","path":"rooms/rm_level3/rm_level3.yy",},},
@@ -58,6 +60,8 @@
     {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"roomId":{"name":"rm_level3","path":"rooms/rm_level3/rm_level3.yy",},},
     {"roomId":{"name":"rm_level4","path":"rooms/rm_level4/rm_level4.yy",},},
+    {"roomId":{"name":"rm_gamewin","path":"rooms/rm_gamewin/rm_gamewin.yy",},},
+    {"roomId":{"name":"rm_gameend","path":"rooms/rm_gameend/rm_gameend.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

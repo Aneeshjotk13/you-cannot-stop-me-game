@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_water",
+  "%Name":"obj_tiles",
   "eventList":[],
   "managed":true,
-  "name":"obj_water",
+  "name":"obj_tiles",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_water",
-    "path":"sprites/spr_water/spr_water.yy",
+    "name":"spr_tiles",
+    "path":"sprites/spr_tiles/spr_tiles.yy",
   },
   "spriteMaskId":null,
   "visible":true,

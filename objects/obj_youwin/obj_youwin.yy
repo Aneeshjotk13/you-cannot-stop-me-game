@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_trees",
+  "%Name":"obj_youwin",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_tiles","path":"objects/obj_tiles/obj_tiles.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_terr","path":"objects/obj_terr/obj_terr.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_trees",
+  "name":"obj_youwin",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_ep",
-    "path":"sprites/spr_ep/spr_ep.yy",
+    "name":"spr_youwin",
+    "path":"sprites/spr_youwin/spr_youwin.yy",
   },
   "spriteMaskId":null,
   "visible":true,

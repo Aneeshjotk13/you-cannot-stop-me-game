@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_gameover",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_gameover",
   "overriddenProperties":[],

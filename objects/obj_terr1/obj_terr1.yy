@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_youwin2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_terr2","path":"objects/obj_terr2/obj_terr2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_terr1",
+  "eventList":[],
   "managed":true,
-  "name":"obj_youwin2",
+  "name":"obj_terr1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_youwin1",
-    "path":"sprites/spr_youwin1/spr_youwin1.yy",
+    "name":"spr_terrain",
+    "path":"sprites/spr_terrain/spr_terrain.yy",
   },
   "spriteMaskId":null,
   "visible":true,

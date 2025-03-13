@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_youwin2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_terr2","path":"objects/obj_terr2/obj_terr2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_gameover3",
+  "eventList":[],
   "managed":true,
-  "name":"obj_youwin2",
+  "name":"obj_gameover3",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_youwin1",
-    "path":"sprites/spr_youwin1/spr_youwin1.yy",
+    "name":"spr_gameover",
+    "path":"sprites/spr_gameover/spr_gameover.yy",
   },
   "spriteMaskId":null,
   "visible":true,

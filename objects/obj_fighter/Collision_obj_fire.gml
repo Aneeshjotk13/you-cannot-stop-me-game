@@ -12,4 +12,4 @@ effect_create_below(0, 32, 33, 1, $FF999999 & $ffffff);
 /// @DnDHash : 2051989A
 /// @DnDArgument : "room" "rm_gameover"
 /// @DnDSaveInfo : "room" "rm_gameover"
-room_goto(rm_gameover);
+room_goto(rm_gameover1);

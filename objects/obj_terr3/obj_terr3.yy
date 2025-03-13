@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_youwin4",
+  "%Name":"obj_terr3",
   "eventList":[],
   "managed":true,
-  "name":"obj_youwin4",
+  "name":"obj_terr3",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_youwin1",
-    "path":"sprites/spr_youwin1/spr_youwin1.yy",
+    "name":"spr_terrain",
+    "path":"sprites/spr_terrain/spr_terrain.yy",
   },
   "spriteMaskId":null,
   "visible":true,

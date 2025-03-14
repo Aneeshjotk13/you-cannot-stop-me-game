@@ -1,16 +1,14 @@
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
-/// @DnDHash : 05F0BDEA
-/// @DnDArgument : "x" "74"
-/// @DnDArgument : "x_relative" "1"
+/// @DnDHash : 33B4D35A
+/// @DnDArgument : "x" "32"
 /// @DnDArgument : "y" "44"
-/// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "size" "1"
-effect_create_below(0, x + 74, y + 44, 1, $FFFFFF & $ffffff);
+/// @DnDArgument : "color" "$FFE5E5E5"
+effect_create_below(0, 32, 44, 0, $FFE5E5E5 & $ffffff);
 
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
-/// @DnDHash : 6D3EE1AD
-/// @DnDArgument : "room" "rm_level1"
-/// @DnDSaveInfo : "room" "rm_level1"
-room_goto(rm_level1);
+/// @DnDHash : 047FA242
+/// @DnDArgument : "room" "rm_gameover"
+/// @DnDSaveInfo : "room" "rm_gameover"
+room_goto(rm_gameover1);

@@ -9,6 +9,6 @@ effect_create_below(0, 32, 44, 0, $FFE5E5E5 & $ffffff);
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 047FA242
-/// @DnDArgument : "room" "rm_gameover"
-/// @DnDSaveInfo : "room" "rm_gameover"
+/// @DnDArgument : "room" "rm_gameover1"
+/// @DnDSaveInfo : "room" "rm_gameover1"
 room_goto(rm_gameover1);

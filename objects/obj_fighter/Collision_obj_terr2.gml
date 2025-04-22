@@ -1,6 +1,11 @@
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 20403B35
-/// @DnDArgument : "room" "rm_youwin2"
-/// @DnDSaveInfo : "room" "rm_youwin2"
-room_goto(rm_youwin2);
+/// @DnDHash : 67711C65
+/// @DnDArgument : "code" "// Inside obj_fighter collision event with obj_terr1$(13_10)$(13_10)if (global.heart_collected) {$(13_10)    room_goto_next();  // Go to next level (room)$(13_10)} else {$(13_10)    show_debug_message("You need to collect the heart first!");  // Optional message$(13_10)}$(13_10)"
+// Inside obj_fighter collision event with obj_terr1
+
+if (global.heart_collected) {
+    room_goto_next();  // Go to next level (room)
+} else {
+    show_debug_message("You need to collect the heart first!");  // Optional message
+}
